@@ -2,7 +2,7 @@ use_frameworks!
 
 platform :ios, '8.0'
 
-target  'MyPlugin'  do 
+target  'MyPlugin_Example'  do 
 
 pod  'MyPlugin'
 
